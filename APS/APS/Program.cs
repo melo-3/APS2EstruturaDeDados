@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//Grupo: Eduardo Paes, Giovanna de Melo, Mariana ALves
+//Grupo: Eduardo Paes, Giovanna de Melo, Mariana Alves e Nicole Assis
 
 namespace APS
 {
